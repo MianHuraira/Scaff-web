@@ -2,11 +2,11 @@ import React, { Component } from 'react';
 import Header from '../../Layout/Header1';
 import Footer from '../../Layout/Footer1';
 import PageTitle from '../../Layout/PageTitle';
-import AccordionBlog from '../../Element/AccordionBlog';
-import VideoPopup from '../../Element/VideoPopup';
+// import AccordionBlog from '../../Element/AccordionBlog';
+// import VideoPopup from '../../Element/VideoPopup';
 
 import bnr2 from './../../../images/banner/bnr2.jpg';
-import pic10 from './../../../images/about/pic10.jpg';
+// import pic10 from './../../../images/about/pic10.jpg';
 
 class ShortAccordions extends Component {
 
